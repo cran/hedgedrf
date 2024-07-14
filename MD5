@@ -1,0 +1,8 @@
+7fdeba4af9d0ffc93aea549e0b08668a *DESCRIPTION
+90713d69684c62f55f3fa5e79d466df6 *NAMESPACE
+13539995df5cf2f4ccb80e769d4105a1 *R/get_cov_qis.R
+41fd19f1dd41b58d5606a811590594b1 *R/hedgedrf.R
+4da34456571eec6c3d84b4811636ebe9 *R/predict.R
+abe470e4ed267c50e6bdb38b4916e962 *man/get_cov_qis.Rd
+26737198bad182a881bb9c1bc61ba36c *man/hedgedrf.Rd
+db7ac0f8626761127aa25405234962bb *man/predict.hedgedrf.Rd
